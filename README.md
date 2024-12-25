@@ -1,4 +1,4 @@
-## Hi there 👋
+## The project I currently work on is always on the left in "Pinned" and the project I have recently completed is always on the right in "Pinned".
 
 <!--
 **antonVosc/antonVosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
