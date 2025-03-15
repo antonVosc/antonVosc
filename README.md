@@ -55,10 +55,10 @@ I'm a **Python Developer | Software Engineer** based in London, UK. I have a str
 
 ### **Website Maintenance Assistant | Total Legacy Care Solicitors** *(June 2020 - Aug 2020)*
 -	**Tested**, **maintained** and **enhanced** the company website built on **Elementor** and **WordPress**
-●	**Decreased page loading time** by **60%**, reducing **average loading speed** from 5s to **under 2s**, significantly improving user satisfaction
-●	**Improved responsiveness** across all devices, cutting layout shift issues by **50%**, ensuring a seamless **mobile** and **desktop** experience
-●	**Improved website usability** by **45%** by optimising website **speed** and **responsiveness**, fixing broken links, enhancing **design consistency**, and **optimising page structure** for seamless navigation, leading to **longer session durations**, **lower bounce rates** and **smoother user experience**
-●	**Enhanced visual coherence**, leading to a **25%** increase in engagement, as users navigated pages more easily with **more consistent** formatting and layout
+-	**Decreased page loading time** by **60%**, reducing **average loading speed** from 5s to **under 2s**, significantly improving user satisfaction
+-	**Improved responsiveness** across all devices, cutting layout shift issues by **50%**, ensuring a seamless **mobile** and **desktop** experience
+-	**Improved website usability** by **45%** by optimising website **speed** and **responsiveness**, fixing broken links, enhancing **design consistency**, and **optimising page structure** for seamless navigation, leading to **longer session durations**, **lower bounce rates** and **smoother user experience**
+-	**Enhanced visual coherence**, leading to a **25%** increase in engagement, as users navigated pages more easily with **more consistent** formatting and layout
 
 ---
 
