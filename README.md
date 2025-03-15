@@ -19,13 +19,13 @@ I'm a **Software Engineer** specialising in **Python development** based in Lond
 ## 🛠️ Skills
 
 ### **Programming Languages**
-- Python, Java, HTML, CSS, JavaScript, SQL
+Python, Java, HTML, CSS, JavaScript, SQL
 
 ### **Frameworks & Libraries**
-- NumPy, pandas, scikit-learn, matplotlib
+NumPy, pandas, scikit-learn, matplotlib
 
 ### **Tools & Platforms**
-- Git, GitHub, GitLab, Jupyter Notebook, Eclipse, WordPress, Elementor
+Git, GitHub, GitLab, Jupyter Notebook, Eclipse, WordPress, Elementor
 
 ### **Concepts**
 - Data Structures & Algorithms, Object-Oriented Programming (OOP), Test-Driven Development (TDD)
