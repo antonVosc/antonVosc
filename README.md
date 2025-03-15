@@ -28,7 +28,7 @@ NumPy, pandas, scikit-learn, matplotlib
 Git, GitHub, GitLab, Jupyter Notebook, Eclipse, WordPress, Elementor
 
 ### **Concepts**
-- Data Structures & Algorithms, Object-Oriented Programming (OOP), Test-Driven Development (TDD)
+Object-Oriented Programming (OOP), Data Structures & Algorithms, Test-Driven Development (TDD)
 
 ---
 
