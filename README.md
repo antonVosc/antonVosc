@@ -9,6 +9,13 @@ I'm a **Python Developer | Software Engineer** based in London, UK. I have a str
 
 ---
 
+## 📫 Connect with Me
+- **💻 [Portfolio](http://antonvosc.netlify.app/)**
+- **🔗 [LinkedIn](https://www.linkedin.com/in/anton-voshchinskiy-809794277/)**
+- **📧 anton.vosc@gmail.com**
+
+---
+
 ## 🛠️ Skills
 
 ### **Programming Languages**
@@ -61,10 +68,5 @@ I'm a **Python Developer | Software Engineer** based in London, UK. I have a str
 -	**Enhanced visual coherence**, leading to a **25%** increase in engagement, as users navigated pages more easily with **more consistent** formatting and layout
 
 ---
-
-## 📫 Connect with Me
-- **📧 Email:** anton.vosc@gmail.com
-- **🔗 [LinkedIn](https://www.linkedin.com/in/anton-voshchinskiy-809794277/)**
-- **💻 [Portfolio](http://antonvosc.netlify.app/)**
 
 Feel free to check out my repositories and contributions! 🚀
