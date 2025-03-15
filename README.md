@@ -5,23 +5,23 @@ I'm a **Python Developer | Software Engineer** based in London, UK. I have a str
 
 🎓 **BSc Computer Science** – Royal Holloway University of London (2024 Graduate)
 
-💡 **Interests:** Software Engineering, Machine Learning, Data Analysis, Automation, Web Development
+💡 **Interests:** Software Engineering, Machine Learning, Data Analysis, Web Development
 
 ---
 
 ## 🛠️ Skills
 
 ### **Programming Languages**
-- Python, Java, JavaScript, HTML, CSS, SQL
+- Python, Java, HTML, CSS, JavaScript, SQL
 
 ### **Frameworks & Libraries**
-- NumPy, pandas, scikit-learn, Matplotlib
+- NumPy, pandas, scikit-learn, matplotlib
 
 ### **Tools & Platforms**
-- Git, GitHub, GitLab, Jupyter Notebook, WordPress, Elementor
+- Git, GitHub, GitLab, Jupyter Notebook, Eclipse, WordPress, Elementor
 
 ### **Concepts**
-- Machine Learning, Data Analysis, Data Structures & Algorithms, Object-Oriented Programming (OOP), Test-Driven Development (TDD)
+- Data Structures & Algorithms, Object-Oriented Programming (OOP), Test-Driven Development (TDD)
 
 ---
 
