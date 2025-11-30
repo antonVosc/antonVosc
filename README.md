@@ -56,7 +56,7 @@ AI, Object-Oriented Programming (OOP), Data Structures & Algorithms, Test-Driven
 -	Developed and maintaining a service based on **Django** and **OpenAI** for automating the creation of **SEO optimised articles** on the given topic or based on the given text
 -	Added the possibility to search through already existing articles on the given topic in the system which **improves user experience**
 -	**Integrated text-checking API platforms** for checking text on metrics such as **spam**, **readability**, **uniqueness**
--	Applied **prompt engineering*** to **improve text generation quality and model response accuracy**
+-	Applied **prompt engineering** to **improve text generation quality and model response accuracy**
 -	Worked with several versions of **OpenAI models (GPT-3.5, GPT-4, etc.)**, selecting the optimal one for text generation
 -	**Optimised the content generation process**, ensuring a balance between **SEO requirements** and **text naturalness**
 - **Increased traffic** to rewritten articles by **116%**
