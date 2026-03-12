@@ -1,7 +1,7 @@
 # Hi there, I'm Anton Voshchinskiy! 👋
 
 ## 🚀 About Me
-I'm a **Software Engineer** specialising in **Python development**. I have a strong passion for **software development, data processing, and automation**. With experience in **machine learning, data visualisation, and web development**, I enjoy building scalable solutions that enhance efficiency and usability.
+I'm a **Software Engineer** specialising in **Python development**. I have a strong passion for **software development, data processing, and automation**. With experience in **prompt engineering, machine learning, data visualisation, and web development**, I enjoy building scalable solutions that enhance efficiency and usability.
 
 🎓 **BSc Computer Science** – Royal Holloway University of London (2024 Graduate)
 
